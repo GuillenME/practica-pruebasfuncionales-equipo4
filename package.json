@@ -2,8 +2,7 @@
   "name": "practica-pruebasfuncionales-equipo4",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+  "scripts": {    
     "test": "jest"
   },
   "repository": {
